@@ -8,6 +8,8 @@ The frontend UI has been fully implemented using React and Tailwind CSS.
 
 To set up and run the project locally, follow these steps:
 
+Use Internet Connection. Used network images and Videos
+
 1. **Clone the Repository**  
    ```bash
    git clone <repository_url>
